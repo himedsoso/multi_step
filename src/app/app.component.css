@@ -41,4 +41,21 @@ display: flex;
 
 
 }
+.start {
+    position: absolute;
+   
+    width: 20%;
+    margin: 60%;
+    margin-top: 80%;
+    margin-left: 50%;
+}
+.next {
+    background-color: rgb(0, 9, 104);
+    color: white;
+    margin-top: 0%;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10%;
+}
 }
